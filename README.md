@@ -26,3 +26,5 @@ To be, or not to be: that is the question:
 Whether 'tis nobler in the mind to suffer
 
 contêm a palavra “to” três vezes, a palavra “be” duas vezes, a palavra “or” uma vez etc.
+
+![1.PNG](1.PNG)
